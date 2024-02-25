@@ -133,3 +133,4 @@ async function viewBalance() {
 async function viewAddress() {
   // Load the wallet from file
   const walletData = await fs.promises.readFile
+}
